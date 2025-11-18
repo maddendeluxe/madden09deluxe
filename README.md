@@ -28,8 +28,7 @@ johndest - Uniforms and Gear
 
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
-JDHalfrack - Creat<img width="2048" height="1024" alt="Main Menu" src="https://github.com/user-attachments/assets/a5f31d46-67d8-4296-be0c-5627a10cc996" />
-or of tools used to create this mod (DFR5, Madden Uniform Editor and Ripper), Assistance on HEX Editing
+JDHalfrack - Creator of tools used to create this mod (DFR5, Madden Uniform Editor and Ripper), Assistance on HEX Editing
 
 JD637 - Creator of tools used to create this mod (Texture Downloader)
 
