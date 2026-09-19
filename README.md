@@ -78,7 +78,7 @@ Pinky - Team Member
 
 Sabi - Team Member
 
-newerest - Team Member
+newerest - Team Member, Creator of Scorebug and Linux Texture Tool
 
 j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
